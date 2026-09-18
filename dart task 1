@@ -1,0 +1,11 @@
+void main() {
+  String name = "Ahmed";
+  int age = 20;
+  String country = "Egypt";
+  String fav programming language = "C++";
+};
+  print("Name is $name");
+  print("Age is $age");
+  print ("My Country is : $country");
+  print ("My FavLang is : $favLang");
+}
